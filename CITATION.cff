@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper (preferred-citation)."
+title: "Fairness-Aware Adaptive Optimization for Smart Inverter Droop Curves"
+authors:
+  - family-names: "Emami Mirak"
+    given-names: "Rahmat"
+    email: "r.emamimirak@gmail.com"
+    affiliation: "Amirkabir University of Technology (Tehran Polytechnic)"
+repository-code: "https://github.com/ra-emami/Fairness-Aware-Adaptive-Optimization-for-Smart-Inverter-Droop-Curves"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Adaptive and fair optimization of smart inverter droop curves in distribution grids"
+  authors:
+    - family-names: "Emami Mirak"
+      given-names: "Rahmat"
+      affiliation: "Amirkabir University of Technology (Tehran Polytechnic)"
+    - family-names: "Inaolaji"
+      given-names: "Adedoyin"
+      affiliation: "University at Buffalo, The State University of New York"
+  journal: "Electric Power Systems Research"
+  volume: 262
+  year: 2027
+  article-number: "113613"
+  doi: "10.1016/j.epsr.2026.113613"

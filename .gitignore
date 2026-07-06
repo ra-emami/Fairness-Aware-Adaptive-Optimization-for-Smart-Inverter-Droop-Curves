@@ -1,0 +1,12 @@
+# Julia
+Manifest.toml
+*.jl.cov
+*.jl.mem
+
+# Generated figures
+*.svg
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
